@@ -1,2 +1,4 @@
-# Introdu-o-L-gica-de-Programa-o-e-ao-Ambiente-de-Programa-o-Python
+# Introdução à Lógica de 
+Programação e ao Ambiente 
+de Programação Python
 introdução a algoritmos e programação
