@@ -1,0 +1,1 @@
+# Comando for, variáveis contadoras e acumuladoras
